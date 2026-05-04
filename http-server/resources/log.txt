@@ -1,0 +1,282 @@
+{"level": "INFO"; "timestamp": "2026-04-29T20:24:35.927956"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:24:38.162099"; "message": "Request: GET, /123, /127.0.0.1:57044"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:24:38.178981"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57044"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:28:50.673526"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57133"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:28:53.275648"; "message": "Request: GET, /catalog, /127.0.0.1:57133"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:28:53.288523"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57133"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:04.916294"; "message": "Request: GET, /, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:04.933614"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:05.634948"; "message": "Request: GET, /catalog, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:05.655349"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:06.497462"; "message": "Request: GET, /product, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:06.513187"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:10.233005"; "message": "Request: GET, /catalog, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:10.245585"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:11.766999"; "message": "Request: GET, /product, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:11.780889"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:16.051750"; "message": "Request: GET, /, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:16.063243"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:17.066283"; "message": "Request: GET, /services, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:17.083059"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:19.926075"; "message": "Request: GET, /catalog, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:19.938855"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:22.288435"; "message": "Request: GET, /product, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:22.296562"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:29.819710"; "message": "Request: GET, /catalog, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:29.836261"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:30.526576"; "message": "Request: GET, /product, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:30.543280"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:51.110386"; "message": "Request: GET, /, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-04-29T20:31:51.130778"; "message": "Request: GET, /favicon.ico, /127.0.0.1:57164"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:00.476956"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:01.639307"; "message": "Request: GET, /, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:01.675638"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:03.794223"; "message": "Request: GET, /services, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:03.807623"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:06.205138"; "message": "Request: GET, /, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:06.217718"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:07.916764"; "message": "Request: GET, /catalog, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:07.931203"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:08.607477"; "message": "Request: GET, /product, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:34:08.629924"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63246"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:03.910065"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:05.059910"; "message": "Request: GET, /, /127.0.0.1:63370"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:05.125750"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63370"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:07.567135"; "message": "Request: GET, /123, /127.0.0.1:63370"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:09.144777"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63370"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:17.501582"; "message": "Request: GET, /catalog, /127.0.0.1:63370"}
+{"level": "INFO"; "timestamp": "2026-05-01T19:43:17.527706"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63370"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:14.817850"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:19.807168"; "message": "Request: GET, /, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:19.937831"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:22.609220"; "message": "Request: GET, /123, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:32.834548"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:33.247284"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:18:48.713127"; "message": "Request: GET, /123, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:20:22.787264"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:21:24.523552"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63780"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:27.982156"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:30.898210"; "message": "Request: GET, /, /127.0.0.1:63885"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:31.004611"; "message": "Request: GET, /favicon.ico, /127.0.0.1:63885"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:33.541196"; "message": "Request: GET, /123, /127.0.0.1:63885"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:33.551940"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63885"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:25:33.553188"; "message": "resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:48.133508"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:53.425855"; "message": "Request: GET, /123, /127.0.0.1:63900"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:25:53.465224"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63900"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:25:55.187790"; "message": "resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:26:04.304509"; "message": "Request: GET, /123, /127.0.0.1:63901"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:26:04.313983"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63901"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:26:31.850980"; "message": "resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:26:33.011204"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:26:35.091994"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:26:35.339821"; "message": "Request: GET, /123, /127.0.0.1:63918"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:26:35.369150"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63918"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:26:36.882897"; "message": "./resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:11.763548"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:63920"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:13.861202"; "message": "Request: GET, /123, /127.0.0.1:63920"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:13.873135"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:63920"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:27:35.380084"; "message": "./resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:35.382331"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:63942"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:36.534844"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:37.858543"; "message": "Request: GET, /123, /127.0.0.1:64051"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:37.891287"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:64051"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:37.892442"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:64052"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:27:49.178477"; "message": "resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:50.343332"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:51.020998"; "message": "Request: GET, /123, /127.0.0.1:64117"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:51.051354"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:64117"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:27:52.554830"; "message": "/resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:52.555668"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:64118"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:55.275433"; "message": "Request: GET, /123, /127.0.0.1:64118"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:27:55.287092"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:64118"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:28:32.022643"; "message": "/resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:28:32.025188"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:64136"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:28:33.245221"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:28:33.767620"; "message": "Request: GET, /123, /127.0.0.1:64320"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:28:33.798799"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:64320"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:28:38.332541"; "message": "/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:28:38.333502"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:64321"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:29:33.245783"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:29:35.106554"; "message": "Request: GET, /, /127.0.0.1:64599"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:29:35.209158"; "message": "Request: GET, /favicon.ico, /127.0.0.1:64599"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:29:37.463672"; "message": "Request: GET, /123, /127.0.0.1:64599"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:29:37.467618"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:64599"}
+{"level": "ERROR"; "timestamp": "2026-05-01T20:30:35.365364"; "message": "resources/templales/images/what-huh.gif"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:30:36.498500"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:30:37.767517"; "message": "Request: GET, /, /127.0.0.1:64870"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:30:37.887920"; "message": "Request: GET, /favicon.ico, /127.0.0.1:64870"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:30:40.321255"; "message": "Request: GET, /123, /127.0.0.1:64870"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:30:40.326050"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:64870"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:30:53.142502"; "message": "Request: GET, /favicon.ico, /127.0.0.1:64870"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:08.165010"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:09.855016"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:65016"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:14.902837"; "message": "Request: GET, /123, /127.0.0.1:65016"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:14.914766"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:65016"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:14.944312"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:65038"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:14.983619"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:65040"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:31:14.999287"; "message": "Request: GET, /favicon.ico, /127.0.0.1:65016"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:37:15.305190"; "message": "Request: GET, /images/what-huh.gif, /127.0.0.1:50143"}
+{"level": "INFO"; "timestamp": "2026-05-01T20:37:38.408477"; "message": "Request: GET, /favicon.ico, /127.0.0.1:50143"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:09:41.850690"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:09:44.151387"; "message": "Request: GET, /, /127.0.0.1:58381"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:09:44.160132"; "message": "Template not found for name "resources/templates/index.html".
+The name was interpreted by this TemplateLoader: FileTemplateLoader(baseDir="/Users/v/Work/attractor/http-server/resources/templates", canonicalBasePath="/Users/v/Work/attractor/http-server/resources/templates/")."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:11:19.093171"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:11:30.537354"; "message": "Request: GET, /sample, /127.0.0.1:58832"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:11:30.557282"; "message": "Template not found for name "./resources/templates/index.ftml" (normalized: "resources/templates/index.ftml").
+The name was interpreted by this TemplateLoader: FileTemplateLoader(baseDir="/Users/v/Work/attractor/http-server/resources/templates", canonicalBasePath="/Users/v/Work/attractor/http-server/resources/templates/")."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:11:30.566402"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:58833"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:11:30.566893"; "message": "Template not found for name "./resources/templates/index.ftml" (normalized: "resources/templates/index.ftml").
+The name was interpreted by this TemplateLoader: FileTemplateLoader(baseDir="/Users/v/Work/attractor/http-server/resources/templates", canonicalBasePath="/Users/v/Work/attractor/http-server/resources/templates/")."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:11:31.847936"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:58845"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:11:31.862751"; "message": "Template not found for name "./resources/templates/index.ftml" (normalized: "resources/templates/index.ftml").
+The name was interpreted by this TemplateLoader: FileTemplateLoader(baseDir="/Users/v/Work/attractor/http-server/resources/templates", canonicalBasePath="/Users/v/Work/attractor/http-server/resources/templates/")."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:12:10.847984"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:12:12.723570"; "message": "Request: GET, /sample, /127.0.0.1:58859"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:12:12.735672"; "message": "Template not found for name "index.ftml".
+The name was interpreted by this TemplateLoader: FileTemplateLoader(baseDir="/Users/v/Work/attractor/http-server/resources/templates", canonicalBasePath="/Users/v/Work/attractor/http-server/resources/templates/")."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:12:24.247498"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:12:24.546006"; "message": "Request: GET, /sample, /127.0.0.1:58871"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:12:24.608337"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58871"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:12:24.612012"; "message": "The following has evaluated to null or missing:
+==> user  [in template "index.ftl" at line 15, column 17]
+
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${user.firstName}  [in template "index.ftl" at line 15, column 15]
+----"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:12:24.612845"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58872"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:31.053274"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.392983"; "message": "Request: GET, /sample, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.469601"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.471079"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.480445"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.879282"; "message": "Request: GET, /sample, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.889425"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.893080"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:37.900495"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.335487"; "message": "Request: GET, /sample, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.352003"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.354740"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.365680"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.790554"; "message": "Request: GET, /sample, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.800894"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.802355"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:38.810619"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:39.317225"; "message": "Request: GET, /sample, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:39.331680"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58926"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:39.334543"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:14:39.347062"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58927"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:00.652173"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.020227"; "message": "Request: GET, /sample, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.095456"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.097062"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58952"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.107872"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58952"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.644837"; "message": "Request: GET, /sample, /127.0.0.1:58952"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.659557"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58952"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.662543"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:05.671609"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:06.572783"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:06.582111"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:08.076325"; "message": "Request: GET, /sample, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:08.096071"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:58951"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:08.098271"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:58952"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:08.100   "; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:58962"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:08.155628"; "message": "Request: GET, /favicon.ico, /127.0.0.1:58962"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:38.893381"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:43.106100"; "message": "Request: GET, /sample, /127.0.0.1:59113"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:43.187711"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59113"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:52.006417"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59114"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:52.014351"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59114"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:53.757829"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.284768"; "message": "Request: GET, /sample, /127.0.0.1:59124"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.356083"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59124"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.357606"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59125"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.365145"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59125"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.904954"; "message": "Request: GET, /sample, /127.0.0.1:59125"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.916623"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59125"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.918139"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59124"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:15:55.931017"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59124"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:02.504942"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:07.287436"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:08.640925"; "message": "Request: GET, /sample, /127.0.0.1:59136"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:08.718186"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59136"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:17.680471"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:18.110508"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:27.693823"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:27.701233"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:32.941242"; "message": "Request: GET, /sample, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:32.954901"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:34.725750"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59136"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:41.645726"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:59172"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:41.652257"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59172"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:43.585549"; "message": "Request: GET, /sample, /127.0.0.1:59172"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:43.598568"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:59172"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:43.600230"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59136"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:49.513340"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:16:50.374934"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59137"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:20:12.805463"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:20:14.852714"; "message": "Request: GET, /sample, /127.0.0.1:59352"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:20:14.919723"; "message": "Request: GET, /css/index_styles.css, /127.0.0.1:59352"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:20:14.921095"; "message": "Request: GET, /images/1.jpg, /127.0.0.1:59354"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:20:14.952494"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59354"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:25.423237"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:32.638890"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:36.797796"; "message": "Request: GET, /sample, /127.0.0.1:59471"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:36.829505"; "message": "Request: GET, /css/404_styles.css, /127.0.0.1:59471"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:36.843164"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59471"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:40.673085"; "message": "Request: GET, /123, /127.0.0.1:59471"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:40.680967"; "message": "Request: GET, /css/404_styles.css, /127.0.0.1:59471"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:43.876845"; "message": "Request: GET, /categories, /127.0.0.1:59471"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:43.877993"; "message": "request for getting categories by filters (null)"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:27:43.879237"; "message": "Template not found for name "categories.ftl".
+The name was interpreted by this TemplateLoader: FileTemplateLoader(baseDir="/Users/v/Work/attractor/http-server/resources/templates", canonicalBasePath="/Users/v/Work/attractor/http-server/resources/templates/")."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:57.131347"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:59.416473"; "message": "Request: GET, /categories, /127.0.0.1:59509"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:27:59.425336"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:09.028646"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:59511"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:10.599801"; "message": "Request: GET, /categories, /127.0.0.1:59511"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:10.601196"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:10.624692"; "message": "Request: GET, /.well-known/appspecific/com.chrome.devtools.json, /127.0.0.1:59522"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:31.538956"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:35.064181"; "message": "Request: GET, /categories, /127.0.0.1:59627"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:28:35.078674"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:08.032835"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:09.572184"; "message": "Request: GET, /categories, /127.0.0.1:59642"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:09.586723"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:24.381502"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:25.768108"; "message": "Request: GET, /categories, /127.0.0.1:59659"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:25.783220"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:36.141869"; "message": "Request: GET, /categories, /127.0.0.1:59661"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:36.142299"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:48.479525"; "message": "Request: GET, /categories, /127.0.0.1:59671"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:29:48.480746"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:07.318903"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:08.755347"; "message": "Request: GET, /categories, /127.0.0.1:59711"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:08.763457"; "message": "request for getting categories by filters (null)"}
+{"level": "ERROR"; "timestamp": "2026-05-01T21:31:08.794267"; "message": "freemarker.template.DefaultObjectWrapper didn't convert java.util.ArrayList to a TemplateHashModel. Generally, you want to use a Map<String, Object> or a JavaBean as the root-map (aka. data-model) parameter. The Map key-s or JavaBean property names will be the variable names in the template."}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:28.567982"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:29.002962"; "message": "Request: GET, /categories, /127.0.0.1:59727"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:29.013606"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:29.059769"; "message": "Request: GET, /css/categories_styles.css, /127.0.0.1:59727"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:31:29.102239"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59727"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:32:25.354125"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:32:28.237319"; "message": "Request: GET, /categories, /127.0.0.1:59754"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:32:28.249354"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:32:28.295642"; "message": "Request: GET, /css/categories_styles.css, /127.0.0.1:59754"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:32:28.306162"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59754"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:37:42.129228"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:37:46.151584"; "message": "Request: GET, /categories, /127.0.0.1:59896"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:37:46.161181"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:37:46.205093"; "message": "Request: GET, /css/categories_styles.css, /127.0.0.1:59896"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:37:46.249952"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59896"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:38:38.756307"; "message": "Server started: http://localhost:8080"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:38:41.428900"; "message": "Request: GET, /categories, /127.0.0.1:59917"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:38:41.439146"; "message": "request for getting categories by filters (null)"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:38:41.485654"; "message": "Request: GET, /css/categories_styles.css, /127.0.0.1:59917"}
+{"level": "INFO"; "timestamp": "2026-05-01T21:38:41.494808"; "message": "Request: GET, /favicon.ico, /127.0.0.1:59917"}
