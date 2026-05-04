@@ -1,0 +1,85 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(135deg, #eef2f7, #f8fafc);
+  margin: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+.category-list,
+.subcategory-list {
+  list-style: none;
+  padding: 0;
+}
+
+.subcategory-list {
+  margin-left: 30px;
+  margin-top: 10px;
+  border-left: 2px solid #e0e6ed;
+  padding-left: 15px;
+}
+
+.category-item {
+  margin-bottom: 15px;
+}
+
+.category-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px 18px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+  transition: 0.2s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.category-card.child {
+  background: #f9fbfd;
+}
+
+.category-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.category-title {
+  font-size: 17px;
+  font-weight: 600;
+  color: #34495e;
+}
+
+.category-parent {
+  font-size: 12px;
+  color: #7f8c8d;
+}
+
+.category-root {
+  font-size: 12px;
+  color: #2ecc71;
+  font-weight: bold;
+}
+
+.category-meta {
+  margin-top: 6px;
+  font-size: 11px;
+  color: #aaa;
+}
+
+.empty {
+  text-align: center;
+  color: #999;
+}
